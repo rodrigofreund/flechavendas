@@ -1,3 +1,6 @@
 backend/target/
 web/node_modules/
 web/package-lock.json
+backend/.classpath
+backend/.project
+backend/bin/
